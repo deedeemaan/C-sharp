@@ -1,0 +1,10 @@
+1,2023-12-24,Utilities
+2,2024-01-18,Electronics
+3,2023-12-28,Groceries
+4,2024-02-18,Utilities
+5,2024-01-09,Groceries
+6,2024-01-10,Fashion
+7,2023-12-29,Entertainment
+8,2023-12-30,Electronics
+9,2023-11-07,Fashion
+10,2024-03-12,Entertainment

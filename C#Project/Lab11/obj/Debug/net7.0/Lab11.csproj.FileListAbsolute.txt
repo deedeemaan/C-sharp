@@ -1,0 +1,14 @@
+C:\Users\denis\RiderProjects\Lab11\Lab11\bin\Debug\net7.0\Lab11.exe
+C:\Users\denis\RiderProjects\Lab11\Lab11\bin\Debug\net7.0\Lab11.deps.json
+C:\Users\denis\RiderProjects\Lab11\Lab11\bin\Debug\net7.0\Lab11.runtimeconfig.json
+C:\Users\denis\RiderProjects\Lab11\Lab11\bin\Debug\net7.0\Lab11.dll
+C:\Users\denis\RiderProjects\Lab11\Lab11\bin\Debug\net7.0\Lab11.pdb
+C:\Users\denis\RiderProjects\Lab11\Lab11\obj\Debug\net7.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\RiderProjects\Lab11\Lab11\obj\Debug\net7.0\Lab11.AssemblyInfoInputs.cache
+C:\Users\denis\RiderProjects\Lab11\Lab11\obj\Debug\net7.0\Lab11.AssemblyInfo.cs
+C:\Users\denis\RiderProjects\Lab11\Lab11\obj\Debug\net7.0\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\denis\RiderProjects\Lab11\Lab11\obj\Debug\net7.0\Lab11.dll
+C:\Users\denis\RiderProjects\Lab11\Lab11\obj\Debug\net7.0\refint\Lab11.dll
+C:\Users\denis\RiderProjects\Lab11\Lab11\obj\Debug\net7.0\Lab11.pdb
+C:\Users\denis\RiderProjects\Lab11\Lab11\obj\Debug\net7.0\Lab11.genruntimeconfig.cache
+C:\Users\denis\RiderProjects\Lab11\Lab11\obj\Debug\net7.0\ref\Lab11.dll
